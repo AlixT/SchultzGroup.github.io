@@ -3,17 +3,17 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Graduate Student in Schultz Lab PhysPharm depart OHSU
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2013 - 2015`
+__Paris Descartes University__
+Graduation Majot Chemistry
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2016 - 2017`
+__Paris Diderot University__
+Master Degree in Biochemistry 
 
 ## Awards
 

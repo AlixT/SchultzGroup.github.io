@@ -1,15 +1,15 @@
 # Site wide configuration
 
-title: Academic Website - Alix Thomas
+title: Academic Website - Schultz Group
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Alix Thomas
+  name: Schultz group
   avatar: Sans_titre.png
   bio: "This is a sample Jekyll academic website."
-  email: thomalix@ohsu.edu
+  email:
   # Do not include the @ symbol in your Twitter username
   twitter: none
   linkedin: #username
